@@ -1,0 +1,49 @@
+.helpContainer {
+    display: flex;
+    flex-direction: row;
+    padding: 0 28px;
+    margin: 35px 0;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+
+.link{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+
+.helpButtonContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 140px;
+    height: 45px;
+    flex-shrink: 0;
+    margin-bottom: 2rem;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: #74D229;
+}
+
+.helpButton {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    border: none;
+    background: none;
+}
+
+.helpText{
+    color: white;
+    font-size: 1.3rem;
+}
+
+.chatbot{
+    cursor: pointer;
+}

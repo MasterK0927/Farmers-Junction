@@ -1,0 +1,30 @@
+.heroSubBoxesContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: #74D229;
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+    width: 230px;
+    height: 71px;
+    flex-shrink: 0;
+    padding: 0 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.heroSubBoxText {
+    color: white;
+    font-size: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}

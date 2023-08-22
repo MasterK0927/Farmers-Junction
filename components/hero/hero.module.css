@@ -1,0 +1,9 @@
+.link{
+    color: #fff;
+    text-decoration: none;
+}
+
+.heroContainer{
+    display: flex;
+    flex-direction: column;
+}

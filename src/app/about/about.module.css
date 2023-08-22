@@ -1,0 +1,68 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px;
+  display: flex;
+  gap: 5px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background: linear-gradient(120deg, rgba(0, 128, 0, 0.44), rgba(144, 238, 144, 0.493));
+}
+
+.p1{
+  display: flex;
+  gap: 10px;
+}
+
+.profile {
+  width: calc(33.33% - 40px);
+  margin-bottom: 40px;
+  padding: 5px;
+  background-color: #86ed92aa;
+  border-radius: 8px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.profile:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+.profile h2 {
+  color: #333;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.profile p {
+  color: #666;
+  font-size: 16px;
+}
+
+.profilePhoto {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 auto 20px;
+}
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  left: 0;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 20px;
+  }
+
+  .profile {
+    width: calc(50% - 20px);
+  }
+}

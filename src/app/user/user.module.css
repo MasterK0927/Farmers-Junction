@@ -1,0 +1,149 @@
+.userContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.header {
+    display: flex;
+    padding: 5px;
+    height: 60px;
+    flex-shrink: 0;
+    background: #74D229;
+
+}
+
+.headerSub {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.headerText {
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.userComponent {
+    width: 300px;
+    height: 100%;
+    flex-shrink: 0;
+}
+
+.userComponentSubOne {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.editingOff {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 3px solid #74D229;
+    background: #FFF;
+}
+
+.EditingOn{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 3px solid #74D229;
+    background: #FFF;
+}
+
+.editFirstName{
+    outline: none;
+    border: none;
+    width: 240px;
+    height: auto;
+    padding: 6px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: #FFF;
+
+}
+
+.fName {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.prop {
+    width: 240px;
+    height: auto;
+    padding: 6px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: #FFF;
+}
+
+.fNameText {
+    color: #000;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.userComponentSubTwo{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.userComponentSubThree{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.editBtn{
+    outline : none;
+    border: none;
+    background-color: #74D229;
+    width: 30%;
+    height: auto;
+    padding: 4px 0;
+    border-radius: 10px;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.cont{
+    width: 240px;
+    height: auto;
+    font-size: 13px;
+    padding: 0 6px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: #FFF;
+}
+
+.logOutBtn{
+    padding: 10px;
+}
+
+.log{
+    outline : none;
+    border: none;
+    background-color: #74D229;
+    width: 40%;
+    height: 30px;
+    padding: 4px 0;
+    border-radius: 10px;
+}

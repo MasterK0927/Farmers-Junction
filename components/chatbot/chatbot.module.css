@@ -1,0 +1,54 @@
+.chatContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.chatBody {
+    display: flex;
+    flex-direction: column;
+}
+
+.messageContainer {
+    display: flex;
+}
+
+.textChat {
+    width: fit-content;
+    padding: 2px 4px;
+    height: 20px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: #e1dfdfa6;
+}
+
+.isUser {
+    background-color: rgba(0, 128, 0, 0.063);
+    padding: 2px;
+}
+
+.formContainer {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.textArea {
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    background: #FFF;
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+}
+
+.textArea::placeholder{
+    text-align: center;
+}
+
+.sendButton{
+    outline: none;
+    border: none;
+    border-radius: 50px;
+    width: 60px;
+    border: 1px solid rgb(14, 236, 14);
+}
