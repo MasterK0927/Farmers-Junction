@@ -44,4 +44,4 @@ different softwares.
 
 <h1>Future Possibilities</h1>
 
-<img src='Farmers-Junction/public/Scale.jpg'>
+![Scale](https://github.com/MasterK0927/Farmers-Junction/assets/64908981/8c4fa575-4e21-4651-96e1-51d908731400)
