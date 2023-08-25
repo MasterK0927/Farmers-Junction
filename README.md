@@ -2,7 +2,6 @@
 
 ![Roadmap](https://github.com/MasterK0927/Farmers-Junction/assets/64908981/cd2be3e7-f22e-4a2e-81e2-6c08293d9af5)
 
-
 A small app providing a simple and user
 friendly solution to some of the grave
 problems faced by Indian farmers through
@@ -19,7 +18,7 @@ different softwares.
 
 <h1>Key Features</h1>
 
-<img src='Farmers-Junction/public/Features.jpg'>
+![Features](https://github.com/MasterK0927/Farmers-Junction/assets/64908981/8b533a11-64f7-4c4e-b1ec-3b989e781434)
 
 1. Taking down the Language Barrier between the Farmer and the App through 10 different largely spoken languages throughout India.
 
