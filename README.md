@@ -1,4 +1,4 @@
-#Project overview
+<h1>Project overview</h1>
 
 A small app providing a simple and user
 friendly solution to some of the grave
@@ -6,7 +6,7 @@ problems faced by Indian farmers through
 the use of ML models, API's and several
 different softwares.
 
-#Achievements
+<h1>Achievements</h1>
 
 1. Successfully Trained 2 ML Models Separately for Predicting the crop and Checking for disease in one day.
 
@@ -14,7 +14,7 @@ different softwares.
 
 3. Integrating a ChatGPT powered AI Chat Bot for easing out the work of the farmer and also opening a new mode of learning for them.
 
-#Key Features
+<h1>Key Features</h1>
 
 1. Taking down the Language Barrier between the Farmer and the App through 10 different largely spoken languages throughout India.
 
