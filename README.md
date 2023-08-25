@@ -1,34 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#Project overview
 
-## Getting Started
+A small app providing a simple and user
+friendly solution to some of the grave
+problems faced by Indian farmers through
+the use of ML models, API's and several
+different softwares.
 
-First, run the development server:
+#Achievements
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+1. Successfully Trained 2 ML Models Separately for Predicting the crop and Checking for disease in one day.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Using API to know the current Mandi prices in the locality.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+3. Integrating a ChatGPT powered AI Chat Bot for easing out the work of the farmer and also opening a new mode of learning for them.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+#Key Features
 
-## Learn More
+1. Taking down the Language Barrier between the Farmer and the App through 10 different largely spoken languages throughout India.
 
-To learn more about Next.js, take a look at the following resources:
+2. Integrating an Authentication System to keep the data confidential.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. Adding a Help Section for bridging the communication gap between App and the Farmer.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+#Credits
 
-## Deploy on Vercel
+1. <a href="https://github.com/Harsha-vardhan-R">HarshVardhan</a>
+For training the ML model for Crop prediction and creating the API endpoints for the same.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. <a href="">Shouryaman</a>
+For training the ML Model for Disease Detection using OpenCV and tensorflow.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+3. <a href="">Savit</a>
+For UI/UX and presentation.
+
+4. <a href="https://github.com/MasterK0927">Keshav</a>
+For coding the FrontEnd (Nextjs) , training ML model for ChatBot aka AnnapurnaGPT, and for handling all the API callbacks. 
