@@ -1,6 +1,7 @@
 <h1>Project overview</h1>
 
-<img src='Farmers-Junction/public/Roadmap.jpg'>
+![Roadmap](https://github.com/MasterK0927/Farmers-Junction/assets/64908981/cd2be3e7-f22e-4a2e-81e2-6c08293d9af5)
+
 
 A small app providing a simple and user
 friendly solution to some of the grave
