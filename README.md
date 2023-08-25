@@ -1,6 +1,6 @@
 <h1>Project overview</h1>
 
-<img src='/public/Roadmap.jpg'>
+<img src='/Farmers-Junction/public/Roadmap.jpg'>
 
 A small app providing a simple and user
 friendly solution to some of the grave
@@ -18,7 +18,7 @@ different softwares.
 
 <h1>Key Features</h1>
 
-<img src='/public/Features.jpg'>
+<img src='/Farmers-Junction/public/Features.jpg'>
 
 1. Taking down the Language Barrier between the Farmer and the App through 10 different largely spoken languages throughout India.
 
@@ -28,7 +28,7 @@ different softwares.
 
 <h1>Credits</h1>
 
-<img src='/public/Team.jpg'>
+<img src='/Farmers-Junction/public/Team.jpg'>
 
 1. <a href="https://github.com/Harsha-vardhan-R">HarshVardhan</a>
 <p>For training the ML model for Crop prediction and creating the API endpoints for the same.</p>
@@ -44,4 +44,4 @@ different softwares.
 
 <h1>Future Possibilities</h1>
 
-<img src='/public/Scale.jpg'>
+<img src='/Farmers-Junction/public/Scale.jpg'>
