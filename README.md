@@ -28,7 +28,7 @@ different softwares.
 
 <h1>Credits</h1>
 
-<img src='Farmers-Junction/public/Team.jpg'>
+![Team](https://github.com/MasterK0927/Farmers-Junction/assets/64908981/b18a61fa-acb5-4e01-8115-460b4529989b)
 
 1. <a href="https://github.com/Harsha-vardhan-R">HarshVardhan</a>
 <p>For training the ML model for Crop prediction and creating the API endpoints for the same.</p>
