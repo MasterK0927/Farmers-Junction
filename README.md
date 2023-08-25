@@ -33,7 +33,7 @@ different softwares.
 1. <a href="https://github.com/Harsha-vardhan-R">HarshVardhan</a>
 <p>For training the ML model for Crop prediction and creating the API endpoints for the same.</p>
 
-2. <a href="">Shouryaman</a>
+2. <a href="https://github.com/retr0991">Shouryaman</a>
 <p>For training the ML Model for Disease Detection using OpenCV and tensorflow.</p>
 
 3. <a href="">Savit</a>
