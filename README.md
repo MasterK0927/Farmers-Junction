@@ -22,16 +22,16 @@ different softwares.
 
 3. Adding a Help Section for bridging the communication gap between App and the Farmer.
 
-#Credits
+<h1>Credits</h1>
 
 1. <a href="https://github.com/Harsha-vardhan-R">HarshVardhan</a>
-For training the ML model for Crop prediction and creating the API endpoints for the same.
+<p>For training the ML model for Crop prediction and creating the API endpoints for the same.</p>
 
 2. <a href="">Shouryaman</a>
-For training the ML Model for Disease Detection using OpenCV and tensorflow.
+<p>For training the ML Model for Disease Detection using OpenCV and tensorflow.</p>
 
 3. <a href="">Savit</a>
-For UI/UX and presentation.
+<p>For UI/UX and presentation.</a>
 
 4. <a href="https://github.com/MasterK0927">Keshav</a>
-For coding the FrontEnd (Nextjs) , training ML model for ChatBot aka AnnapurnaGPT, and for handling all the API callbacks. 
+<p>For coding the FrontEnd (Nextjs) , training ML model for ChatBot aka AnnapurnaGPT, and for handling all the API callbacks.</p>
